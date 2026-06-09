@@ -1,0 +1,22 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex bc11665..acc2fc1 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -3,14 +3,10 @@[m
+ this project was create from local system.[m
+ created by manish kumar (:[m
+ [m
+[31m-<<<<<<< HEAD[m
+[31m-=======[m
+ feature branch ... dfkjvkdmf dvdjf .'dcvdv,vdfvj[m
+ fvkdnflmv,dfikvndfvf vjdfbv dkfvbdflkjvmdfvnbjfv;[m
+[31m->>>>>>> feature[m
+[31m-[m
+[31m-[m
+[31m-hii duniya ...[m
+ [m
+ [m
+[32m+[m[32mhello duniya ....[m
+ [m
+[32m+[m[32mhii  feature branch ...[m
+\ No newline at end of file[m
